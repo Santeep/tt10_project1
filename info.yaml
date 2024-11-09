@@ -24,7 +24,7 @@ pinout:
   # Inputs
   ui[0]: "input a "
   ui[1]: "NA"
-  ui[2]: ""
+  ui[2]: "NA"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
