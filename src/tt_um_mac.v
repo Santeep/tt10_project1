@@ -133,5 +133,5 @@ module KoggeStoneAdder8bit(
             assign C[i + 1] = G[i] | (P[i] & C[i]);
         end
     endgenerate
-    assign Sum <= P ^ C; 
+    assign Sum = P ^ C; 
 endmodule
